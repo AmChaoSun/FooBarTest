@@ -1,0 +1,12 @@
+/Users/chao/Projects/FooBarTest/FooBarTest/bin/Debug/netcoreapp3.1/FooBarTest.deps.json
+/Users/chao/Projects/FooBarTest/FooBarTest/bin/Debug/netcoreapp3.1/FooBarTest.runtimeconfig.json
+/Users/chao/Projects/FooBarTest/FooBarTest/bin/Debug/netcoreapp3.1/FooBarTest.runtimeconfig.dev.json
+/Users/chao/Projects/FooBarTest/FooBarTest/bin/Debug/netcoreapp3.1/FooBarTest.dll
+/Users/chao/Projects/FooBarTest/FooBarTest/bin/Debug/netcoreapp3.1/FooBarTest.pdb
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.csprojAssemblyReference.cache
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.AssemblyInfoInputs.cache
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.AssemblyInfo.cs
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.csproj.CoreCompileInputs.cache
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.dll
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.pdb
+/Users/chao/Projects/FooBarTest/FooBarTest/obj/Debug/netcoreapp3.1/FooBarTest.genruntimeconfig.cache
